@@ -1,0 +1,28 @@
+_repo: Read-Aloud-Plays_15983
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Holley, Horace
+    birthdate: 1887
+    deathdate: 1960
+    gutenberg_agent_id: '6412'
+    url: http://www.gutenberg.org/2009/agents/6412
+description: ''
+gutenberg_issued: '2005-06-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15983'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'American drama -- 20th century'
+tableOfContents: Her happiness -- A modern prodigal -- The incompatibles -- The genius
+  -- Survival -- The telegram -- Rain -- Pictures -- His luck.
+title: Read-Aloud Plays
+url: http://www.gutenberg.org/ebooks/15983
